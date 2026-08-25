@@ -8232,8 +8232,7 @@ dependencies = [
 [[package]]
 name = "i18n-embed-fl"
 version = "0.9.4"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "04b2969d0b3fc6143776c535184c19722032b43e6a642d710fa3f88faec53c2d"
+source = "git+https://github.com/OssiTechMain/i18n-embed-fl?rev=60ece7b0d5346a860e7d4f72732f25d252fe3eab#60ece7b0d5346a860e7d4f72732f25d252fe3eab"
 dependencies = [
  "find-crate",
  "fluent",
