@@ -587,6 +587,7 @@ inherits = "test"
 opt-level = 0
 
 [patch.crates-io]
+i18n-embed-fl = { git = "https://github.com/OssiTechMain/i18n-embed-fl", rev = "60ece7b0d5346a860e7d4f72732f25d252fe3eab" }
 # Uncomment to debug local changes.
 # ratatui = { path = "../../ratatui" }
 crossterm = { git = "https://github.com/openai-oss-forks/crossterm", rev = "45fecb9508105988f42fe6ff0441783ed3717f92" }
